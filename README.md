@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/98396618/207462265-747c4b2c-f0dd-4941-b019-7d235f15301e.png)
+![image](https://user-images.githubusercontent.com/98396618/207462382-5d8392b2-fcc3-4573-8f44-131a67b21663.png)
 # Analise-Exploratoria-Vendas-Wallmart
 
 - Fonte: Kaggle.com
